@@ -1,7 +1,7 @@
 # GeeksforGeeks Solutions Repository 🧠
 
 <div align="center">
-  <img src="https://i.imgur.com/RGEMg62.gif" alt="Programming Animation" width="450px">
+  <img src="/assets/intro.gif" alt="Programming Animation" width="450px">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/MohammedJabir18/GeeksforGeeks-Solutions?style=for-the-badge)
   ![GitHub last commit](https://img.shields.io/github/last-commit/MohammedJabir18/GeeksforGeeks-Solutions?style=for-the-badge)
@@ -16,7 +16,7 @@
 This repository houses my solutions to various GeeksforGeeks problems, implemented exclusively in Python. Each solution prioritizes code readability, algorithmic efficiency, and proper documentation. The solutions demonstrate problem-solving strategies across multiple domains of computer science and programming challenges.
 
 <div align="center">
-  <img src="https://i.imgur.com/gTAZCGQ.gif" alt="Algorithm Animation" width="400px">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx0OHppdGVqMnA3YXlkcWxlam5mc20yaXJ3bm83dXg5ZTRueHg2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" alt="Algorithm Animation" width="400px">
 </div>
 
 ## 🧩 Repository Structure
@@ -84,7 +84,7 @@ Each solution file includes:
 - **Test Cases**: Example inputs and expected outputs
 
 <div align="center">
-  <img src="https://i.imgur.com/rEXOXwI.gif" alt="Coding Process Animation" width="450px">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmUyOG5tc3ljN3V5aGQ0d2xhcnN2OXljbG4ya2hmaGliZG5naWg1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif" alt="Coding Process Animation" width="400px">
 </div>
 
 ## 🛠️ How to Use This Repository
@@ -123,10 +123,19 @@ While this repository primarily contains my personal solutions, constructive fee
 - Edge cases that might not be covered
 - Suggestions for code readability or style improvements
 
+## ⚖️ License
+
+This repository is licensed under the MIT License - see the LICENSE file for details.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 ## ⭐ Support
 
 If you find this repository helpful for your programming journey, please consider giving it a star. Your support motivates me to add more solutions and maintain the quality of this repository.
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" alt="Footer" width="100%">
+  
+<img src="/assets/outro.png" width="450px">
+  
+  <p>Made with 🔥 by Mohammed Jabir</p>
 </div>
